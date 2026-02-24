@@ -5,7 +5,7 @@ WallpaperCalc — это консольное приложение на язык
 
 Проект выполнен в рамках лабораторной работы (Variant 2).
 
-Университет: Astana IT University (AIU)
+Университет: Astana International University (AIU)
 Автор: Damir Ravil
 Год: 2026
 
